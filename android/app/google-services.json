@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483983523297",
+    "project_id": "active-brand-351217",
+    "storage_bucket": "active-brand-351217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483983523297:android:dea9a00d2c2a1c5a1866a0",
+        "android_client_info": {
+          "package_name": "com.dmlstreetsheet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483983523297-que4tlcrhm869il79tnrefs99i2umvt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiQNeD__zMBrwsRv5fAidsxs-6DfE1ThI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483983523297-que4tlcrhm869il79tnrefs99i2umvt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
